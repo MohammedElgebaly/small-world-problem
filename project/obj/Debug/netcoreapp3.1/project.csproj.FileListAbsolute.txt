@@ -1,0 +1,41 @@
+D:\edu\third year\second term\algo\project\project\project\bin\Debug\netcoreapp3.1\project.exe
+D:\edu\third year\second term\algo\project\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+D:\edu\third year\second term\algo\project\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\edu\third year\second term\algo\project\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\edu\third year\second term\algo\project\project\project\bin\Debug\netcoreapp3.1\project.dll
+D:\edu\third year\second term\algo\project\project\project\bin\Debug\netcoreapp3.1\project.pdb
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.dll
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.pdb
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+D:\edu\third year\second term\algo\project\project\project\obj\Debug\netcoreapp3.1\project.csproj.AssemblyReference.cache
+C:\Users\Mohamed Magdy\Downloads\project\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\Mohamed Magdy\Downloads\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\Mohamed Magdy\Downloads\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\Mohamed Magdy\Downloads\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\Mohamed Magdy\Downloads\project\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\Mohamed Magdy\Downloads\project\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\Mohamed Magdy\Downloads\project\project\obj\Debug\netcoreapp3.1\project.csproj.AssemblyReference.cache
+C:\Users\Mohamed Magdy\Downloads\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\Mohamed Magdy\Downloads\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\Mohamed Magdy\Downloads\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Magdy\Downloads\project\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\Mohamed Magdy\Downloads\project\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\Mohamed Magdy\Downloads\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+D:\edu\third year\second term\algo\final project\project\project\bin\Debug\netcoreapp3.1\project.exe
+D:\edu\third year\second term\algo\final project\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+D:\edu\third year\second term\algo\final project\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\edu\third year\second term\algo\final project\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\edu\third year\second term\algo\final project\project\project\bin\Debug\netcoreapp3.1\project.dll
+D:\edu\third year\second term\algo\final project\project\project\bin\Debug\netcoreapp3.1\project.pdb
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.csproj.AssemblyReference.cache
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.dll
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.pdb
+D:\edu\third year\second term\algo\final project\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
